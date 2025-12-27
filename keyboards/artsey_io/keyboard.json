@@ -12,6 +12,12 @@
         "nkro": true
     },
     "url": "https://github.com/artseyio/thepaintbrush",
+    "matrix_pins": {
+        "direct": [
+            ["GP26", "GP27", "GP28", "GP29"],
+            ["GP21", "GP23", "GP20", "GP22"]
+        ]
+    },
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x9696",
